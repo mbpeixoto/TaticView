@@ -127,10 +127,6 @@ plotly
 
 ## 📌 Observações
 
-- O modelo YOLO usado foi `uisikdag/yolo-v8-football-players-detection` via HuggingFace.
-- O vídeo deve ser estático (sem movimentação da câmera) e visão "behind_goal".
-- Para vídeos laterais, adaptar a função de `get_position`.
+- Observar e adaptar configurações em config.py
 
 ---
-
-Desenvolvido com ❤️ para análise de táticas defensivas automatizadas em partidas de futebol.
